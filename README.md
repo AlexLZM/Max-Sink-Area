@@ -5,7 +5,7 @@ Given an M * N matrix, where matrix[i][j] is the height of the block on position
 A sink area is a group of neighboring blocks that are fully surrounded by other blocks with greater heights. When water is poured onto the matrix, the sink area traps the water in it. Build a function that finds the number of blocks in the maximum sink area.
 
 ## Example 1
-![Example](./images/1.jpg)
+![Example](./images/1041626747293_.pic.jpg)
 
 ![Example](./images/2.jpg)
 

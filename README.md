@@ -7,7 +7,7 @@ A sink area is a group of neighboring blocks that are fully surrounded by other 
 ## Example 1
 ![Example](./images/1041626747293_.pic.jpg)
 
-![Example](./images/2.jpg)
+![Example](./images/1061626747620_.pic.jpg)
 
 output: 3
 
